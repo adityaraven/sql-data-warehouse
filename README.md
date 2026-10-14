@@ -1,2 +1,2 @@
 # sql-data-warehouse
-Data waregouse with SQL , ETL processing , data modeling and analytics.
+Data warehouse with SQL, ETL processing, data modeling and analytics.
